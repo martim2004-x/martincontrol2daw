@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Varilla -->
+    <path
+        android:pathData="M32,36 L76,36"
+        android:strokeColor="#C9B58F"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round" />
+    <!-- Hilos del macramé -->
+    <path
+        android:pathData="M38,36 L38,62"
+        android:strokeColor="#F4F6F4"
+        android:strokeWidth="2.6"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M46,36 L46,70"
+        android:strokeColor="#F4F6F4"
+        android:strokeWidth="2.6"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M54,36 L54,76"
+        android:strokeColor="#F4F6F4"
+        android:strokeWidth="2.6"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M62,36 L62,70"
+        android:strokeColor="#F4F6F4"
+        android:strokeWidth="2.6"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M70,36 L70,62"
+        android:strokeColor="#F4F6F4"
+        android:strokeWidth="2.6"
+        android:strokeLineCap="round" />
+    <!-- Nudos -->
+    <path
+        android:fillColor="#8FA595"
+        android:pathData="M54,46 m-4,0 a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0" />
+    <path
+        android:fillColor="#8FA595"
+        android:pathData="M46,52 m-3,0 a3,3 0 1,0 6,0 a3,3 0 1,0 -6,0" />
+    <path
+        android:fillColor="#8FA595"
+        android:pathData="M62,52 m-3,0 a3,3 0 1,0 6,0 a3,3 0 1,0 -6,0" />
+</vector>
