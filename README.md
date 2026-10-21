@@ -1,12 +1,11 @@
-# Lou Araya Macramé — App móvil (DSY1105, Evaluación Parcial 2)
+# Lou Araya Macramé — App móvil 
 
 Aplicación Android nativa (Kotlin + Jetpack Compose) para el emprendimiento de macramé artesanal **Lou Araya**.
 Permite a clientes explorar el catálogo, guardar favoritos, escanear códigos QR de las piezas, ver ferias en un mapa
 y solicitar cotizaciones; y a la administradora gestionar productos, campañas y solicitudes.
 
 ## Integrantes
-- _Nombre Apellido 1_ — _(rol / módulos)_
-- _Nombre Apellido 2_ — _(rol / módulos)_
+martin ignacio lopez bustos todo
 
 ## Funcionalidades
 - **Dos perfiles** (Cliente / Administrador) con navegación inferior distinta y datos separados por usuario.
